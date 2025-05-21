@@ -1,0 +1,21 @@
+<trace_file>
+
+<head>
+<version>17.03</version>
+<scenario>qualnet</scenario>
+<comments>NONE</comments>
+</head>
+
+<body>
+
+<protocol_map>3 IPv4</protocol_map>
+<protocol_map>30 ICMP</protocol_map>
+<protocol_map>1 TCP</protocol_map>
+<protocol_map>2 UDP</protocol_map>
+<protocol_map>57 TRAFFIC-GEN</protocol_map>
+<protocol_map>6 GEN-FTP</protocol_map>
+<protocol_map>7 BELLMANFORD</protocol_map>
+
+</body>
+
+</trace_file>
